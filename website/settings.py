@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY", "some_random_default_string")
 DEBUG = os.environ.get("DEBUG", False)
 
 ALLOWED_HOSTS = [
-    'bearingsconverter.pythonanywhere.com',
+    'https://bearingsconverter.pythonanywhere.com',
 ]
 
 
