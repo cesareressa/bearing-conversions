@@ -1,1 +1,1 @@
-web: gunicorn bearingsconverter.wsgi
+web: gunicorn website.wsgi
