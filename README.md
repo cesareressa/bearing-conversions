@@ -1,4 +1,4 @@
-# Bearing-conversions app
+# Bearings-converter app
 
 A simple bearings nomenclature converter from AFBMA to SKF (and reversed).
 
