@@ -2,7 +2,7 @@
 
 A simple bearings nomenclature converter from AFBMA to SKF (and reversed).
 
-![SCREENSHOT!]("bearingsconverter_screenshot.jpg")
+![SCREENSHOT!](bearingsconverter_screenshot.jpg)
 
 ## How it works:
 
