@@ -1,6 +1,6 @@
 # Bearings-converter app
 
-A simple bearings nomenclature converter from AFBMA to SKF (and reversed). <br />
+A simple bearings nomenclature converter from AFBMA (American Bearing Manufacturers Association) to SKF (Bearing Manufacturing Company) and reversed. <br />
 [link to the app](https://bearingsconverter.up.railway.app) <br />
 
 ![SCREENSHOT!](bearingsconverter_screenshot.jpg)
